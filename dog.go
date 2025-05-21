@@ -8,3 +8,7 @@ import (
 func WhenGrownUp(s string) string {
 	return "When the puppy grows up it says: " + strings.ToUpper(s)
 }
+
+func WhenGrownUp2(s string) string {
+	return "When the puppy grows up it says: " + strings.ToUpper(s)
+}
